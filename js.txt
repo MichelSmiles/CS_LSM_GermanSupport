@@ -1,0 +1,25 @@
+["Name", "Type", "Status", "Service", "Size", "Date", "Workshop item", "Workshop item used in city", "Asset used in city"]
+["名字", "类型", "状态", "服务", "大小", "日期", "工坊id", "工坊资产用于城市", "用于城市"]
+["Nombre", "Tipo", "Estado", "Servicio", "Tamaño", "Fecha", "Artículo de Workshop", "Artículo de Workshop utilizado en ciudad", "Elementos utilizados en esta ciudad"]
+["Name", "Typ", "Status", "Service", "Größe", "Datum", "Workshop-Objekt", "Genutztes Workshop-Objekt auf der Karte", "Genutztes Asset auf der Karte"]
+
+
+['building', 'park', 'prop', 'tree', 'vehicle', 'trailer', '?', 'sub-building', 'variation', 'citizen', 'net', 'elevation', 'pillar']
+['建筑物', '公园', '道具', '树木', '载具', '拖车', '?', '建筑物sub', '变化', '市民', '道路', '公路立交桥', '公路支柱']
+['edificio', 'parque', 'prop', 'arbol', 'vehículo', 'trailer', '?', 'sub-edificio', 'variación', 'ciudadano', 'red', 'elevación', 'pilar']
+['Gebäude', 'Park', 'Prop', 'Baum', 'Fahrzeug', 'Anhänger', '?', 'Untergebäude', 'Variation', 'Bewohner', 'Netzwerk', 'Erhöhung', 'Pfeiler']
+
+['failed', 'available', 'missing', 'name changed']
+['失败', '好', '丢失', '作者可能更改了名称']
+['fallaron', 'disponibles', 'perdidos', 'nombre modificado']
+['fehlgeschlagen', 'vorhanden', 'fehlend', 'umbenannt']
+
+['?', '-', 'no', 'indirectly', 'yes', ' placed', ' once', ' times']
+['?', '-', '没有', '间接地', '是的', '直接', '一次', '次']
+['?', '-', 'no', 'indirectamente', 'si', ' colocado', ' una vez', ' veces']
+['?', '-', 'nein', 'indirekt', 'ja', ' platziert', ' einzeln', ' mehrfach']
+
+['Asset in city:', 'WI in city:', 'Workshop link', 'No link', 'Mod or DLC asset', 'Not on workshop', 'Private asset', 'uses these assets', 'These assets use', 'contains this asset', 'contains these assets', 'These assets are private', 'Workshop item is unknown', 'Mod or DLC assets']
+['用于城市:', '工坊资产用于城市:', '链接', '没有可用链接', '可能是DLC或Mod内容', '不在工坊', '私有资产', '使用', '这些资产使用', '包含', '包含', '私有资产', '没有可用链接', '可能是DLC或Mod内容']
+['Elementos en ciudad:', 'WI en la ciudad:', 'Enlace al Workshop', 'Sin vínculo', 'Mod o elemento de DLC', 'No está en el workshop', 'Elemento privado', 'utiliza estos elementos', 'Estos elementos usan', 'contiene este elemento', 'contiene estos elementos', 'Estos elementos son privados', 'Articulo de Workshop item desconocido', 'Mod o elemento DLC']
+['Element auf der Karte:', 'Workshop-Objekt auf der Karte:', 'Workshop-Link', 'Kein Link', 'DLC-Asset', 'Nicht im Workshop', 'Privates Asset', 'nutzt folgende Assets', 'Diese Assets nutzen', 'beinhaltet das folgende Asset', 'beinhaltet die folgenden Assets', 'Diese Assets sind privat', 'Workshop-Objekt ist unbekannt', 'DLC-Assets']
